@@ -1,10 +1,6 @@
 
 
-.main-body .header {
-    width: 50%;
-    height: 150px;
-    position: absolute;
-    left: 25%;
+.block-heading {
     text-align: center;
 }
 
